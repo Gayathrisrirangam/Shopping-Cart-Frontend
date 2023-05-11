@@ -1,0 +1,16 @@
+C:\Users\gaysrira\Documents\Csharp_Programs\Programs\Programs\bin\Debug\net5.0\Programs.exe
+C:\Users\gaysrira\Documents\Csharp_Programs\Programs\Programs\bin\Debug\net5.0\Programs.deps.json
+C:\Users\gaysrira\Documents\Csharp_Programs\Programs\Programs\bin\Debug\net5.0\Programs.runtimeconfig.json
+C:\Users\gaysrira\Documents\Csharp_Programs\Programs\Programs\bin\Debug\net5.0\Programs.runtimeconfig.dev.json
+C:\Users\gaysrira\Documents\Csharp_Programs\Programs\Programs\bin\Debug\net5.0\Programs.dll
+C:\Users\gaysrira\Documents\Csharp_Programs\Programs\Programs\bin\Debug\net5.0\ref\Programs.dll
+C:\Users\gaysrira\Documents\Csharp_Programs\Programs\Programs\bin\Debug\net5.0\Programs.pdb
+C:\Users\gaysrira\Documents\Csharp_Programs\Programs\Programs\obj\Debug\net5.0\Programs.csproj.AssemblyReference.cache
+C:\Users\gaysrira\Documents\Csharp_Programs\Programs\Programs\obj\Debug\net5.0\Programs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gaysrira\Documents\Csharp_Programs\Programs\Programs\obj\Debug\net5.0\Programs.AssemblyInfoInputs.cache
+C:\Users\gaysrira\Documents\Csharp_Programs\Programs\Programs\obj\Debug\net5.0\Programs.AssemblyInfo.cs
+C:\Users\gaysrira\Documents\Csharp_Programs\Programs\Programs\obj\Debug\net5.0\Programs.csproj.CoreCompileInputs.cache
+C:\Users\gaysrira\Documents\Csharp_Programs\Programs\Programs\obj\Debug\net5.0\Programs.dll
+C:\Users\gaysrira\Documents\Csharp_Programs\Programs\Programs\obj\Debug\net5.0\ref\Programs.dll
+C:\Users\gaysrira\Documents\Csharp_Programs\Programs\Programs\obj\Debug\net5.0\Programs.pdb
+C:\Users\gaysrira\Documents\Csharp_Programs\Programs\Programs\obj\Debug\net5.0\Programs.genruntimeconfig.cache
